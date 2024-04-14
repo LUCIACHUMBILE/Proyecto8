@@ -1,1 +1,2 @@
 # Proyecto8
+El proyecto consiste en optimizar los gastos de marketing para Y.Afisha, una empresa de servicios. Se utilizarán registros de visitas al sitio web, datos de pedidos y estadísticas de gastos de marketing para investigar cómo los clientes utilizan el servicio, cuándo comienzan a comprar, cuánto contribuye cada cliente a los ingresos de la empresa y cuándo los ingresos cubren el costo de adquisición de los clientes.
